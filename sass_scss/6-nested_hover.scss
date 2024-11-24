@@ -2,7 +2,7 @@
 
 button {
     text-color:#FF0000;
-    button:hover{
+    &:hover{
 	text-color:#00FF00;
     }
 }
