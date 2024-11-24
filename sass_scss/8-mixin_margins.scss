@@ -1,0 +1,13 @@
+/*maxin */
+
+@mixin margin($margin: 0px){
+    margin-left: $margin;
+    margin-right: $margin;
+}
+
+body {
+    @include margin($margin: 10px);
+}
+div {
+    @include margin($margin: 15p);
+}
