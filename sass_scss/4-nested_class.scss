@@ -1,11 +1,7 @@
-/* nexted*/
-$text_col:#3D3D3D;
-$text_col2:#FF0000;
-
+/* NEXTED */
 body {
-    text-color: $text_col;
-
+  color: #3D3D3D;
   .red {
-	text-color: $text_col2;
-    }
+    color: #FF0000; 
+  }
 }
