@@ -1,0 +1,5 @@
+@import '10';
+
+.red {
+    color: $red;
+}
