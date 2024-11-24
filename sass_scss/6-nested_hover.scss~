@@ -1,0 +1,7 @@
+/* button */
+button {
+    text- color:#FF0000;
+    button:hover{
+	text- color:#00FF00;
+    }
+}
